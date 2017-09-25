@@ -2,7 +2,7 @@
 
 Running node computer_vs.js will simulate a game between two computers, printing out each move and the winner.
 
-Running node play.js will allow you play against a computer
+Running node play.js will allow you play against a computer.
 
 Computer does not have AI, it only places a piece into a random column that isn't full.
 
